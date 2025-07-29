@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Title of the document</title>
+
   </head>
   <body>
     <h2>HTML Form </h2>
