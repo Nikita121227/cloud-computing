@@ -3,7 +3,7 @@
     <title>Title of the document</title>
   </head>
   <body>
-    <h2>HTML Form Example</h2>
+    <h2>HTML Form </h2>
     <form action="/form/submit" method="POST">
       Name:<br>
       <input type="text" name="firstname" value="Tom">
